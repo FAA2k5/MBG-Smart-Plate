@@ -1,1 +1,0 @@
-# MBG-Smart-Plate
