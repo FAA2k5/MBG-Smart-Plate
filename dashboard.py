@@ -61,16 +61,20 @@ def load_tkpi_data():
     df = df.dropna()
     df = df[df['ENERGI (Kal)'] > 0]
     
+    mknblok = 'babi|hiu|ikan hitam|ayam goreng church'
+    print(f"Sebelum cleaning: {len(df)} baris")
+
+    df = df[
+        ~df['NAMA BAHAN'].str.contains(
+            mknblok,
+            case=False,
+            na=False
+        )
+    ].copy()
+
+    print(f"Setelah cleaning: {len(df)} baris")
+    
     return df
-
-# Eliminasi Konten Haram
-print(f"\nSebelum cleaning: {len(df_tkpi)} baris")
-jumlah_sebelum = len(df_tkpi)
-df_tkpi = df_tkpi[
-    ~df_tkpi['NAMA BAHAN'].str.contains('babi|hiu|ikan hitam|Ayam goreng church', case=False, na=False)
-].copy()
-
-print(f"Setelah cleaning : {len(df_tkpi)} baris")
 
 # ============================================================
 # FUNGSI REKOMENDASI BAHAN
