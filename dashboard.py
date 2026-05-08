@@ -277,13 +277,13 @@ if st.button("🔮 Prediksi Status Gizi", type="primary"):
     # Tampilkan hasil prediksi
     if status == 'Normal':
         st.success(f"✅ **Hasil Prediksi: {status}**")
-        st.info("💡 Saran: Pertahankan pola makan seimbang dan aktifitas fisik teratur.")
+        st.info("💡 Saran: Pertahankan pola makan seimbang dan aktivitas fisik teratur.")
     elif status == 'Kurus':
         st.warning(f"⚠️ **Hasil Prediksi: {status}**")
         st.info("💡 Saran: Tingkatkan asupan kalori, protein, dan karbohidrat. Konsultasi dengan ahli gizi.")
     else:
         st.error(f"⚠️ **Hasil Prediksi: {status}**")
-        st.info("💡 Saran: Kurangi asupan kalori dan lemak, perbanyak serat dan aktifitas fisik.")
+        st.info("💡 Saran: Kurangi asupan kalori dan lemak, perbanyak serat dan aktivitas fisik.")
 
 # ============================================================
 # REKOMENDASI BAHAN PANGAN
