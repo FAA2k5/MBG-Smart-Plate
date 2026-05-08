@@ -291,7 +291,7 @@ if st.button("🔮 Prediksi Status Gizi", type="primary"):
 st.markdown("---")
 st.subheader("🥗 Rekomendasi Bahan Pangan Berdasarkan Status Gizi")
 
-tab1, tab2, tab3 = st.tabs(["🍽️ Underweight (Kurus)", "⚖️ Normal", "🥬 Overweight/Obesitas (Gemuk/Obesitas)"])
+tab1, tab2, tab3 = st.tabs(["Underweight", "Normal", "Overweight"])
 
 with tab1:
     st.markdown("#### Rekomendasi untuk Kategori Underweight")
