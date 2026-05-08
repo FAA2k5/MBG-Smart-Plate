@@ -266,10 +266,10 @@ if st.button("🔮 Prediksi Status Gizi", type="primary"):
         st.success(f"✅ **Hasil Prediksi: {status}**")
         st.info("💡 Saran: Pertahankan pola makan seimbang dan aktifitas fisik teratur.")
     elif status == 'Kurus':
-        st.warning(f"⚠️ **Hasil Prediksi: {status} (Underweight)**")
+        st.warning(f"⚠️ **Hasil Prediksi: {status}**")
         st.info("💡 Saran: Tingkatkan asupan kalori, protein, dan karbohidrat. Konsultasi dengan ahli gizi.")
     else:
-        st.error(f"⚠️ **Hasil Prediksi: {status} (Overweight/Obesitas)**")
+        st.error(f"⚠️ **Hasil Prediksi: {status}**")
         st.info("💡 Saran: Kurangi asupan kalori dan lemak, perbanyak serat dan aktifitas fisik.")
 
 # ============================================================
