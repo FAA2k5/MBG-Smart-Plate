@@ -63,6 +63,15 @@ def load_tkpi_data():
     
     return df
 
+# Eliminasi Konten Haram
+print(f"\nSebelum cleaning: {len(df_tkpi)} baris")
+jumlah_sebelum = len(df_tkpi)
+df_tkpi = df_tkpi[
+    ~df_tkpi['NAMA BAHAN'].str.contains('babi|hiu|ikan hitam|Ayam goreng church', case=False, na=False)
+].copy()
+
+print(f"Setelah cleaning : {len(df_tkpi)} baris")
+
 # ============================================================
 # FUNGSI REKOMENDASI BAHAN
 # ============================================================
