@@ -1,0 +1,7 @@
+Kolom,Tipe Data,Deskripsi,Rentang/Satuan
+NAMA BAHAN,String,Nama bahan pangan mentah,Beragam
+ENERGI (Kal),Float,Kandungan energi total,0-900+ Kalori
+PROTEIN (g),Float,Kandungan protein,0-35+ gram
+LEMAK (g),Float,Kandungan lemak,0-100+ gram
+KH (g),Float,Kandungan karbohidrat,0-90+ gram
+SERAT (g),Float,Kandungan serat pangan,0-30+ gram
