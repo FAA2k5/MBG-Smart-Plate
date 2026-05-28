@@ -1,0 +1,8 @@
+Kolom,Tipe Data,Deskripsi,Rentang/Satuan,Jumlah Unique,Jumlah Null
+NAMA BAHAN,str,Kolom NAMA BAHAN dari dataset TKPI,"Nasi putih, Nasi tim, Nasi merah, Nasi jagung, Nasi kuning 1 porsi ...",38,0
+ENERGI (Kal),int64,Kolom ENERGI (Kal) dari dataset TKPI,43.00 - 391.00,28,0
+PROTEIN (g),float64,Kolom PROTEIN (g) dari dataset TKPI,0.26 - 32.90,38,0
+LEMAK (g),float64,Kolom LEMAK (g) dari dataset TKPI,0.12 - 21.82,35,0
+KH (g),float64,Kolom KH (g) dari dataset TKPI,0.00 - 79.50,36,0
+SERAT (g),float64,Kolom SERAT (g) dari dataset TKPI,0.00 - 6.20,17,0
+KATEGORI,str,Kolom KATEGORI dari dataset TKPI,"KARBOHIDRAT, LAUK, SAYURAN, BUAH, SUSU",5,0

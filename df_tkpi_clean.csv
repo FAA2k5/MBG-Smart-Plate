@@ -1,0 +1,39 @@
+NAMA BAHAN,ENERGI (Kal),PROTEIN (g),LEMAK (g),KH (g),SERAT (g),KATEGORI
+Nasi putih,180,3,0.3,39.8,0.2,KARBOHIDRAT
+Nasi tim,120,3.4,0.4,26,0.5,KARBOHIDRAT
+Nasi merah,149,2.8,0.4,32.5,0.3,KARBOHIDRAT
+Nasi jagung,150,8.8,0.5,79.5,6.2,KARBOHIDRAT
+Nasi kuning 1 porsi ,150,2.99,0.27,32.96,0.6,KARBOHIDRAT
+Ikan tongkol goreng 100 gram,200,20.95,11.41,2.38,0,LAUK
+Ikan lele goreng 1 irisan,150,26.41,4.08,0,0,LAUK
+Bandeng presto 100 gram,171,16.87,8.22,6.77,0.8,LAUK
+Ikan kembung 100 gram,167,19.32,9.36,0,0,LAUK
+Ikan kembung balado 100 gram,163,21.13,7.37,2,0.2,LAUK
+Ikan kembung kukus 100 gram,201,20.21,12,2.31,0,LAUK
+Ikan cakalang goreng 100 gram,205,25.19,10.97,0.06,0,LAUK
+Ikan cakalang asap 100 gram,182,30.1,6.06,0,0,LAUK
+Ayam goreng,391,32.9,21.82,16.15,2.1,LAUK
+Ayam kecap,223,18.82,11.96,9.41,0,LAUK
+Opor ayam,163,16.53,8.67,5.6,1.5,LAUK
+Chicken karage,240,13,11,21,0,LAUK
+Chicken katsu,200,15,10,13,0,LAUK
+Chicken nugget,150,9,7,14,0,LAUK
+Bakso sapi,57,3.47,3.69,2.12,0.1,LAUK
+Bakso ayam,45,5.43,1.57,1.94,0.1,LAUK
+Tumis kangkung 1 porsi,106,2.76,9.4,4.31,0,SAYURAN
+Sayur bening bayam 1 porsi,43,2.14,0.44,9.17,1.7,SAYURAN
+Tumis bayam 1 porsi,47,1.82,3.74,2.58,0,SAYURAN
+Cap cay kuah 100 gram,67,1.58,2.59,9.67,1.5,SAYURAN
+Sayur asparagus,72,4.31,4.09,7.46,0,SAYURAN
+Sayur daun kelor ,60,5.27,0.93,11.15,0,SAYURAN
+Sayur brokoli,55,2.35,2.74,7.12,0,SAYURAN
+Pepaya,55,0.85,0.2,13.73,2.5,BUAH
+Melon,53,1.31,0.3,12.73,0,BUAH
+Buah pir,58,0.38,0.12,15.46,3.1,BUAH
+Apel,52,0.26,0.17,13.81,2.4,BUAH
+Pisang,72,0.88,0.27,18.5,2.1,BUAH
+Jeruk,62,1.23,0.16,15.39,3.1,BUAH
+Mangga,107,0.84,0.45,28.05,1.8,BUAH
+Salad buah,57,0.67,0.86,13.16,0,BUAH
+Susu UHT rasa cokelat,200,8,5,30,4,SUSU
+Susu UHT rasa stroberi,150,6,4.5,22,1,SUSU

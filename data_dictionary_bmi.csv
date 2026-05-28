@@ -1,0 +1,9 @@
+Kolom,Tipe Data,Deskripsi,Rentang/Satuan,Jumlah Unique,Jumlah Null
+Age,int64,Kolom Age dari dataset BMI,6.00 - 12.00,7,0
+Gender,str,Kolom Gender dari dataset BMI,"P, L",2,0
+Gender_Encoded,int64,Kolom Gender_Encoded dari dataset BMI,0.00 - 1.00,2,0
+Height,float64,Kolom Height dari dataset BMI,110.00 - 152.00,421,0
+Weight,float64,Kolom Weight dari dataset BMI,17.00 - 48.00,307,0
+BMI,float64,Kolom BMI dari dataset BMI,11.90 - 23.88,1038,0
+Status_Gizi,str,Kolom Status_Gizi dari dataset BMI,"Normal, Overweight, Underweight, Obesity",4,0
+BMI_Kategori,str,Kolom BMI_Kategori dari dataset BMI,"Normal, Underweight, Overweight, Obesity",4,0
