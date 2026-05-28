@@ -1,9 +1,0 @@
-Kolom,Tipe Data,Deskripsi,Rentang/Satuan
-Age,Integer,Usia siswa dalam tahun,6-12 tahun
-Gender,Kategorikal,Jenis kelamin siswa,Laki-Laki / Perempuan
-Height,Float,Tinggi badan siswa,100-165 cm
-Weight,Float,Berat badan siswa,15-65 kg
-BMI,Float,Indeks Massa Tubuh (hasil perhitungan),12-30 kg/m²
-Status_Gizi,Kategorikal,Klasifikasi status gizi berdasarkan BMI,Underweight / Normal / Overweight / Obesity
-Gender_Encoded,Integer,Encoding numerik dari jenis kelamin,"1=Laki-Laki (L), 0=Perempuan (P)"
-Age_Group,Kategorikal,Pengelompokan usia berdasarkan quantile,Q1(6-7thn) / Q2(8-9thn) / Q3(10-11thn) / Q4(12thn)
